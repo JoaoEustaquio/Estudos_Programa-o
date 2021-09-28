@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Haeg/FdGY8Hj8wwKxg0Rxk+4nCacAc0xbSjGSE3Pltffxja2Y+lJ1ECCqdIy6cmgxDDSETz03b1Swl8wQaNb/w==",
+  "success": true,
+  "projectFilePath": "C:\\Estudos_Programação\\Adrian_2\\Desafio_Adrian002\\Desafio_Adrian002\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaoe\\.nuget\\packages\\restsharp\\106.12.0\\restsharp.106.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
